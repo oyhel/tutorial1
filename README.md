@@ -1,4 +1,4 @@
 # tutorial1
-Tutorial git FHI
 
-liten endring
+
+dette blir bare rot
